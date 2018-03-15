@@ -1,6 +1,11 @@
 # react_dashboard
 New Application for Dashboard using React JS
 
+Download all these files and install all it with Yarn Package
+
+-- yarn
+-- npm start
+
 ## Check All Screen's Screenshots Below
 
 ![alt text](./screenshots/Screen%20Shot%202018-03-12%20at%209.43.08%20PM.png)
