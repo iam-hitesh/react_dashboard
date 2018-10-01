@@ -3,8 +3,12 @@ New Application for Dashboard using React JS
 
 Download all these files and install all it with Yarn Package
 
--- yarn
--- npm start
+
+* git clone git clone https://github.com/ihiteish/react_dashboard.git
+* cd react_dashboard
+* yarn
+* yarn start
+
 
 ## Check All Screen's Screenshots Below
 
